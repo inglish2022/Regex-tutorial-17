@@ -46,7 +46,7 @@ Quantifiers match a number of instances of a character, group or character class
 ## OR Operator
 
 The purpose of an OR operator is to match the characters on the left or right of the operator, essentially serving as an or, as in and/or. Using the | as in k|K would match either m or an M from the string. 
-If we had used ```https?:\/\/(www\.)?[\d-r|R it would search for r or R```
+If we had used ```https?:\/\/(www\.)?[\d-r|R``` it would search for r or R.
 
 ## Character Classes
 
