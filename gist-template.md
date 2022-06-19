@@ -1,6 +1,6 @@
 # REGEX Tutorial: 
 
- URL regex: URL regular expressions can b used o verify if a string has a valid URL format as well as to extract an URL from a string.
+ URL regex: URL regular expressions can be used to verify if a string has a valid URL format as well as to extract an URL from a string.
 
 
 
@@ -101,7 +101,7 @@ The following are qualified as word boundaries.
 
 ## Back-references
 
-Backrefernce is a way to repeat a capturing group. For example the ```([A-Za-z])[0-9]\1. The group '([A-Za-z])' is back-referenced as \\1.```
+Backreference is a way to repeat a capturing group. For example the ```([A-Za-z])[0-9]\1```. The group '```([A-Za-z])```' is back-referenced as ```\\1.```
 
 ## Look-ahead and Look-behind
 
